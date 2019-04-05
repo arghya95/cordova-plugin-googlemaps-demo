@@ -21,12 +21,12 @@ now you have to build ios.If it fails then
 perform following changes 
 
 ````
-$> ionic cordova platform add ios
-$> cd platforms/ios
-$> pod setup
-$> pod install
-$> cd ../../
-$> ionic cordova run ios
+ionic cordova platform add ios
+cd platforms/ios
+pod setup
+pod install
+cd ../../
+ionic cordova run ios
 ````
 
 ## For Android
